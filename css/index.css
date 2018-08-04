@@ -42,13 +42,14 @@ h1,h3{
 	background-image: url(../img/minute.png);
 }
 .pointer{
-	background-color: black;
+	background-color: #c0bec7;
+	box-shadow: 3px 4px 5px 0px #aea0a0;
 	width: 20px;
 	height: 20px;
 	display: inline-block;
 	position: absolute;
-	left: 41%;
-	top: 51%;
+	left: 45%;
+	top: 46%;
 	z-index: 5;
 	border-radius: 50px;
 }
